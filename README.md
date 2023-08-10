@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tushar Gomkar</h1>
-<div align="center"> <img src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/developer.gif"> </div>
+<div align="center"> <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"> </div>
 <h3 align="center">A passionate Full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
