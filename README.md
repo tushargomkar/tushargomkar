@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **tushargomkar@gmail.com**
 
-- 📄 Know about my experiences [tt](tt)
+- 📄 Know about my experiences [https://tushargomkar-resume.vercel.app/]([tt](https://tushargomkar-resume.vercel.app/))
 
 - ⚡ Fun fact **Developer By Day and Gamer by night**
 
